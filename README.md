@@ -17,10 +17,6 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 - 🔧 **Data Engineering** — The unsung hero of every great ML project  
 - 🤯 **Machine Learning, Deep Learning, and RL** — Helping machines learn without taking over the world (yet)
 
-
-**When I'm not coding:**
-I work with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too.
-
 **Current Interests or Roles:**
 
 - 🧠 **Machine Learning Engineer**
