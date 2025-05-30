@@ -89,3 +89,5 @@ I love working with students through STEM outreach programs. Nothing beats the m
 ### 👀 Visitor Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dahimbis.dahimbis)
+
+![Snake animation](https://github.com/dahimbis/dahimbis/blob/output/github-contribution-grid-snake.svg)
