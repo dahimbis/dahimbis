@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dan+Ahimbisibwe;AI+Security+Researcher;IEEE+Leader;NYU+Graduate+Student&center=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75000&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Dan+Ahimbisibwe;Machine+Learning+Engineer;Software+Developer;Data+Science+%26+Analytics;STEM+Enthusiast;Researcher+%7C+NYU+Graduate+Student">
 </p>
 
 ---
