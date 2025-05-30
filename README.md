@@ -10,7 +10,7 @@
 
 I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I started in telecommunications engineering, but data had other plans for me.
 
-**✨ What Excites Me**
+**✨ What Excites Me:**
 🤖 **Agentic AI** — Building AI that doesn't just answer questions, but takes action. 
 ⚡ **Automation** — If it's repetitive, it should be scripted.  
 🔧 **Data Engineering** — The unsung hero of every great ML project  
