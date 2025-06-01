@@ -89,3 +89,9 @@ I love working with students through STEM outreach programs. Nothing beats the m
 ### 👀 Visitor Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dahimbis.dahimbis)
+
+[![Dan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dahimbis&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/dahimbis/github-readme-activity-graph)
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
