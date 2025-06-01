@@ -94,4 +94,4 @@ I love working with students through STEM outreach programs. Nothing beats the m
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&row=1&margin-w=40)](https://github.com/dahimbis)
