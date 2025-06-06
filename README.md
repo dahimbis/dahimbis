@@ -31,7 +31,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 **When I'm not coding or studying:**
 
 I love working with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too.
-I also enjoy exploring new places, cities, and countries whenever I get the chance.
+I also enjoy exploring new places, regions, cities, and countries whenever I get the chance.
 
 
 ---
