@@ -77,8 +77,8 @@ I also enjoy exploring new places, regions, cities, and countries whenever possi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dahimbis&show_icons=true&theme=default" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahimbis&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=dahimbis&show_icons=true&theme=ruvbox" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahimbis&theme=ruvbox" alt="GitHub Streak">
 </p>
 
 ---
