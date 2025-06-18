@@ -21,7 +21,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 
 - 🧠 **Machine Learning Engineer**
 - 📊 **Data Scientist**
-- 🧪 **AI Researcher**
+- 🧪 **AI and ML Researcher**
 - 💻 **Software Engineer**
 - ⚙️ **MLOps Engineer**
 - 📈 **Data Analyst**
