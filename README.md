@@ -26,7 +26,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 - ⚙️ **MLOps Engineer**
 - 📈 **Data Analyst**
 - 🧾 **Business Analyst**
-- ☁️ **Cloud & Big Data Developer**
+- ☁️ **Cloud and Big Data Developer**
 
 **When I'm not coding or studying:**
 
