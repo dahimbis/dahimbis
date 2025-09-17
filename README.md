@@ -35,6 +35,7 @@ I also enjoy exploring new places, regions, cities, and countries whenever possi
 
 **Chat with me**
 ## 💬 Chat With My Career Bot
+Ask questions about my professional life, career, previous education, and any other relevant information.
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Chatbot-blue?logo=huggingface)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
 
 
