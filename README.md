@@ -34,8 +34,9 @@ I love working with students through STEM outreach programs. Nothing beats the m
 I also enjoy exploring new places, regions, cities, and countries whenever possible. Probably thinking about visiting Mars too.
 
 **Chat with me**
-## 💬 Career Conversation Bot
-[![Chat with me](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/hub/chatbot-icon.png)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
+## 💬 Chat With My Career Bot
+[![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Chatbot-blue?logo=huggingface)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
+
 
 
 ---
