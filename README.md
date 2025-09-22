@@ -51,6 +51,7 @@ Ask questions about my professional life, career, previous education, and any ot
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Oracle](https://img.shields.io/badge/-Oracle%20Database-333333?style=flat&logo=oracle)
 
 **Machine Learning & AI**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
@@ -83,12 +84,12 @@ Ask questions about my professional life, career, previous education, and any ot
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **Tools & IDEs**  
+![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-
 ---
 
 ### 📈 GitHub Stats
