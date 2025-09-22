@@ -58,6 +58,16 @@ Ask questions about my professional life, career, previous education, and any ot
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
 
+**Agentic AI Tools**  
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=graph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-333333?style=flat&logo=teamviewer&logoColor=white)
+![AutoGen](https://img.shields.io/badge/-AutoGen-333333?style=flat&logo=autodesk&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-333333?style=flat&logo=protocols.io&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/-OpenAI%20SDK-333333?style=flat&logo=openai)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+
+
 **Data & Visualization**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau&logoColor=white)
