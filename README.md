@@ -31,7 +31,8 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 **When I'm not coding or studying:**
 
 I love working with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too.
-I also enjoy exploring new places, regions, cities, and countries whenever possible. Probably thinking about visiting Mars too.
+I am a Member of IEEE and love to volunteer for conferences, workshops, and any community-engaging activities that have a positive impact on humanity.
+I also enjoy exploring new places, regions, cities, and countries whenever possible—probably thinking about visiting Mars too.
 
 **Chat with me**
 ## 💬 Chat With My Career Bot
