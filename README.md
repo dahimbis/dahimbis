@@ -12,10 +12,10 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 
 ### ✨ What Excites Me
 
-- 🤖 **Agentic AI** — Building AI agents that don't just answer questions, but takes action. 
-- ⚡ **Automation** — If it's repetitive, it should be scripted 
-- 🔧 **Data Engineering** — The unsung hero of every great ML project  
-- 🤯 **Machine Learning, Deep Learning, and RL** — Helping machines learn without taking over the world (yet).
+- 🤖 **Agentic AI:** Building AI agents that don't just answer questions, but takes action. 
+- ⚡ **Automation:** If it's repetitive, it should be scripted 
+- 🔧 **Data Engineering:** The unsung hero of every great ML project  
+- 🤯 **Machine Learning, Deep Learning, and RL:** Helping machines learn without taking over the world (yet).
 
 **Current Interests or Roles:**
 
