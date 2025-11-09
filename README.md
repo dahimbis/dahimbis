@@ -27,12 +27,14 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 - 📈 **Data Analyst**
 - 🧾 **Business Analyst**
 - ☁️ **Cloud and Big Data Developer**
+- 🤖 **STEM Instructor**
 
 **When I'm not coding or studying:**
 
-I love working with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too.
+I love working with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too. Also currently papers about my STEM experiences and best practices.
 I am a Member of IEEE and love to volunteer for conferences, workshops, and any community-engaging activities that have a positive impact on humanity.
 I also enjoy exploring new places, regions, cities, and countries whenever possible—probably thinking about visiting Mars too.
+
 
 **Chat with me**
 ## 💬 Chat With My Career Bot
