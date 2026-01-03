@@ -32,7 +32,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 
 **When I'm not coding or studying:**
 
-I love working with students through STEM outreach programs. Nothing beats the moment when someone realizes they can build the future too. I am also currently writing research papers on STEM experiences, best practices, effectiveness of STEM outreach programs.
+I love working with students and children through STEM outreach programs. I am also currently writing research papers on STEM experiences, best practices, effectiveness of STEM outreach programs.
 I am a Member of IEEE and enjoy volunteering for conferences, workshops, and community-engaging activities that have a positive impact on humanity.
 I also enjoy exploring new places, regions, cities, and countries whenever possible—probably thinking about visiting Mars too.
 Lastly, I am very passionate about AI in Education, Digital Health, and Public Administration.
