@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I started in telecommunications engineering in Uganda, but data had other plans for me.
+I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I started in telecommunications engineering in Uganda, but data and AI had other plans for me.
 
 ### ✨ What Excites Me
 
