@@ -44,8 +44,6 @@ Ask questions about my professional life, career, previous education, and any ot
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Chatbot-blue?logo=huggingface)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
 [![Chat with my bot](chat.png)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
 
-
-
 ---
 
 ### 🛠️ Technologies & Tools
@@ -106,7 +104,8 @@ Ask questions about my professional life, career, previous education, and any ot
     <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=dahimbis&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
----
+
+--
 
 ### 📫 Connect with Me
 
