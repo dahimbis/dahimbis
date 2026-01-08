@@ -120,5 +120,4 @@ Ask questions about my professional life, career, previous education, and any ot
 [![Dan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dahimbis&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/dahimbis/github-readme-activity-graph)
 
 ## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&theme=radical&row=1&margin-w=40&no-bg=true)](https://github.com/dahimbis)
+[![trophy](https://github-trophies.vercel.app/?username=dahimbis&theme=radical&row=1&margin-w=40)](https://github.com/dahimbis)
