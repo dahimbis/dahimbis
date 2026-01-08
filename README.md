@@ -112,11 +112,9 @@ Ask questions about my professional life, career, previous education, and any ot
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahimbisibwe-dan-14150819a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:da3658@nyu.edu)
 
-
 ---
 
 ### 👀 Visitor Count
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dahimbis.dahimbis)
 
 [![Dan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dahimbis&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/dahimbis/github-readme-activity-graph)
