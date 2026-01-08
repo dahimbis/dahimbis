@@ -127,13 +127,13 @@ Ask questions about my professional life, career, previous education, and any ot
 ## 🎓 Certifications
 
 <p align="center">
-  <a href="http://ude.my/UC-c44e338c-2736-4621-bc5a-bf9bea235efb">
+  <a href="http://ude.my/UC-c44e338c-2736-4621-bc5a-bf9bea235efb" title="View Certificate">
     <img src="https://img.shields.io/badge/Udemy-Python%20for%20Data%20Science%20%26%20ML-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Python DS/ML"/>
   </a>
-  <a href="https://www.udemy.com/certificate/UC-6a7b1f53-74a5-4076-978b-020a80866254/">
+  <a href="https://www.udemy.com/certificate/UC-6a7b1f53-74a5-4076-978b-020a80866254/" title="View Certificate">
     <img src="https://img.shields.io/badge/Udemy-Agentic%20AI%20Engineering-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Agentic AI"/>
   </a>
-  <a href="https://credentials.engineering.nyu.edu/9e5c5cbe-ab39-4e21-8a8e-9131bed1e630#acc.mTDBv0xh">
+  <a href="https://credentials.engineering.nyu.edu/9e5c5cbe-ab39-4e21-8a8e-9131bed1e630#acc.mTDBv0xh" title="View Certificate">
     <img src="https://img.shields.io/badge/NYU%20Tandon-Data%20Science%20Bootcamp-57068C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDktNC45VjE3aDJ2LTlMMTIgM3ptMCAxNS4xOUw1IDE0LjR2My42TDEyIDIybDctMy45OXYtMy42bC03IDMuNzh6Ii8+PC9zdmc+" alt="NYU Data Science"/>
   </a>
   <img src="https://img.shields.io/badge/SAS-Applied%20Statistics%20for%20ML-0033A0?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Statistics"/>
