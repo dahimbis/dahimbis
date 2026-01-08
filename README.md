@@ -105,7 +105,7 @@ Ask questions about my professional life, career, previous education, and any ot
   </a>
 </p>
 
---
+---
 
 ### 📫 Connect with Me
 
