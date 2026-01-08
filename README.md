@@ -121,4 +121,4 @@ Ask questions about my professional life, career, previous education, and any ot
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&row=1&margin-w=40)](https://github.com/dahimbis)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dahimbis&theme=radical&row=1&margin-w=40&no-bg=true)](https://github.com/dahimbis)
