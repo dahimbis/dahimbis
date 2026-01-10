@@ -116,10 +116,6 @@ Ask questions about my professional life, career, previous education, and any ot
 
 ### 👀 Visitor Count
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dahimbis.dahimbis)
-## 👀 Visitor Stats
-![Visitor Count](https://profile-counter.glitch.me/dahimbis/count.svg)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdahimbis&labelColor=%23697689&countColor=%23555555&style=flat-square)
 
 [![Dan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dahimbis&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/dahimbis/github-readme-activity-graph)
 
