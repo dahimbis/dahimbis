@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75000&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Dan+Ahimbisibwe;Machine+Learning+Engineer;AI+Engineer;Software+Developer;Data+Science+%26+Analytics;STEM+Enthusiast;Researcher+%7C+NYU+Graduate+Student">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75000&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Dan+Ahimbisibwe;Nick %Name:Heart;Machine+Learning+Engineer;AI+Engineer;Software+Developer;Data+Science+%26+Analytics;STEM+Enthusiast;Researcher+%7C+NYU+Graduate+Student">
 </p>
 
 ---
