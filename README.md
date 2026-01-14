@@ -29,6 +29,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 - 🧾 **Business Analyst**
 - ☁️ **Cloud and Big Data Developer**
 - 🤖 **STEM Instructor**
+- 👨‍💻 **Technology Associate**
 
 **When I am not coding or studying:**
 
