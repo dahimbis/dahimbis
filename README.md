@@ -8,11 +8,11 @@
 
 ### 🧠 About Me
 
-I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I started in telecommunications engineering in Uganda, but data and AI had other plans for me.
+I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I began my career in telecommunications engineering in Uganda, but data and AI had other plans for me.
 
 ### ✨ What Excites Me
 
-- 🤖 **Agentic AI:** Building Smart AI agents that don't just answer questions, but take action too. 
+- 🤖 **Agentic AI:** Building Smart AI agents that don't just answer questions, but take action, plan, and execute tasks too. 
 - ⚡ **Automation:** If it's repetitive, it should be scripted or automated. 
 - 🔧 **Data Engineering:** The unsung hero of every great ML project  
 - 🤯 **Machine Learning, Deep Learning, LLMS and RL:** Helping machines learn without taking over the world (yet). AI for social good.
