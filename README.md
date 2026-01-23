@@ -16,7 +16,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 - ⚡ **Automation:** If it's repetitive, it should be scripted or automated. 
 - 🔧 **Data Engineering:** The unsung hero of every great ML project  
 - 🤯 **Machine Learning, Deep Learning, LLMS and RL:** Helping machines learn without taking over the world (yet). AI for social good.
-- 🪈**MLOPS**: Building Automated End-to-End ML WorkFlow pipelines.
+- 🪈**MLOPS**: Building Automated End-to-End ML Workflow pipelines by applying principles of DevOps and Data Engineering
 
 **Current Interests or Roles:**
 
