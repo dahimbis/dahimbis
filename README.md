@@ -71,6 +71,7 @@ Ask questions about my professional life, career, previous education, and any ot
 ![AutoGen](https://img.shields.io/badge/-AutoGen-333333?style=flat&logo=autodesk&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-333333?style=flat&logo=protocols.io&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/-OpenAI%20SDK-333333?style=flat&logo=openai)
+![Kiro](https://img.shields.io/badge/-Kiro-333333?style=flat&logo=amazonaws&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
 
 
