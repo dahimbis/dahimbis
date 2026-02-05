@@ -41,7 +41,7 @@ Lastly, I am passionate about AI in Education, Digital Health, Public Administra
 
 
 **Chat with me**
-## 💬 Chat With My Career Bot
+## 💬 Chat With My Career Bot - Ask Me Questions
 Ask questions about my professional life, career, previous education, and any other relevant information.
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Chatbot-blue?logo=huggingface)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
 [![Chat with my bot](chat.png)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
