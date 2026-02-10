@@ -89,6 +89,7 @@ Ask questions about my professional life, career, previous education, and any ot
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Chameleon](https://img.shields.io/badge/-Chameleon-333333?style=flat&logo=Chameleon)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
 
 **Tools & IDEs**  
 ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white)
