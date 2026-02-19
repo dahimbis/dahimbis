@@ -73,6 +73,7 @@ Ask questions about my professional life, career, previous education, and any ot
 ![OpenAI SDK](https://img.shields.io/badge/-OpenAI%20SDK-333333?style=flat&logo=openai)
 ![Kiro](https://img.shields.io/badge/-Kiro-333333?style=flat&logo=amazonaws&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
 
 
 **Data & Visualization**  
