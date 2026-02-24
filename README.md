@@ -40,7 +40,7 @@ I also enjoy exploring new places, regions, cities, and countries whenever possi
 Lastly, I am passionate about AI in Education, Digital Health, Public Administration and Policy, and AI for Social Good.
 
 
-**Chat with me**
+
 ## 💬 Chat With My Career Bot - Ask Me Questions
 Ask questions about my professional life, career, previous education, and any other relevant information.
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Chatbot-blue?logo=huggingface)](https://huggingface.co/spaces/dahimbis/dan_career_conversation)
