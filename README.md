@@ -6,11 +6,11 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me 
 
 I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York University (NYU)**. I began my career in telecommunications engineering in Uganda, but data and AI had other plans for me.
 
-### ✨ What Excites Me
+### ✨ What Excites Me Most
 
 - 🤖 **Agentic AI:** Building Smart AI agents that don't just answer questions or chatbots, but take action, plan, and execute tasks too. 
 - ⚡ **Automation:** If it's repetitive, it should be scripted or automated. 
