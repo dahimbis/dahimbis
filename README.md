@@ -20,6 +20,7 @@ I am **Dan Ahimbisibwe**, a Computer Engineering graduate student at **New York 
 
 **Current Interests or Roles:**
 
+- 🛠️ **AI Forward Deployed Engineer**
 - 🧠 **Machine Learning Engineer**
 - 👾 **AI Agentic Engineer**
 - 📊 **Data Engineer and Scientist**
