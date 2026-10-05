@@ -107,7 +107,7 @@ Ask questions about my professional life, career, previous education, and any ot
 ### 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/dahimbis">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dahimbis&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahimbis&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dahimbis">
     <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=dahimbis&theme=radical" alt="GitHub Streak" />
